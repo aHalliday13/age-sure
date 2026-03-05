@@ -37,4 +37,4 @@ To setup, a user only needs to call `age.py set yyyy mm dd` filling in their dat
 
 ---
 
-> This file was generated entirely by chatGPT because I don't give enough of a shit. Nothing here is to be taken seriously, this is entirely satire. California lawmakers are braindead so honestly they probably wouldn't know the difference anyways.
+> This readme was generated entirely by chatGPT and i wrote the script in about 5 minutes because I don't give enough of a shit. Nothing here is to be taken seriously, this is **entirely satire**. California lawmakers are braindead so honestly they probably wouldn't know the difference anyways.
